@@ -1,0 +1,13 @@
+spring:
+  mvc:
+    view:
+      prefix: /
+      suffix: .html
+
+person:
+    name: zhangsan
+    age: 18
+    dog:
+        name: ww
+        age: 2
+
